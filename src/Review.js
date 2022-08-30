@@ -58,6 +58,7 @@ return(
     </button>
     <button className="next-btn" onClick={yeniKisi}></button>
     <FaChevronRight/>
+    //react icon yüklendi
      </div>
 <button className="random-btn" onClick={rastGeleBiri}>
 
